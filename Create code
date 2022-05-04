@@ -24,7 +24,7 @@ for (int i = 1; i <=5; i++) {
 
 System.out.println("Count of Even No is "+evencount);
 System.out.println("Count of Odd No is "+oddcount);
-System.out.println("chnages);
+System.out.println("chnagesnew");
 
 
 
